@@ -7,6 +7,12 @@
 ![Ghost DB](https://img.shields.io/badge/Ghost-Postgres-4cff91?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-3D%20Room-black?style=for-the-badge&logo=three.js)
 
+
+![Agent Role](https://github.com/NestorAndresSantosVidales/agenthive/blob/main/1.png)
+![Agent Role](https://github.com/NestorAndresSantosVidales/agenthive/blob/main/3.png)
+![Agent Role](https://github.com/NestorAndresSantosVidales/agenthive/blob/main/5.png)
+![Agent Role](https://github.com/NestorAndresSantosVidales/agenthive/blob/main/7.png)
+
 ---
 
 ## 🎯 Elevator Pitch
